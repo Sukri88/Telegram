@@ -7,7 +7,5 @@
  ```
 
 ```console
-
 0xf6d6dffacbfa6cc481f1e0bf34997f144fcd77df
-
  ```
